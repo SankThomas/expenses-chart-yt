@@ -60,6 +60,28 @@ function App() {
             </h3>
           </article>
         </article>
+
+        <p className="text-sm mt-4 text-center">
+          Challenge from{" "}
+          <a
+            href="https://frontendmentor.io"
+            target="_blank"
+            rel="noreferrer"
+            className="underline text-indigo-600"
+          >
+            Frontend Mentor
+          </a>
+          . Coded by{" "}
+          <a
+            href="https://tsbsankara.com"
+            target="_blank"
+            rel="noreferrer"
+            className="underline text-indigo-600"
+          >
+            Thomas Sankara
+          </a>
+          .
+        </p>
       </div>
     </>
   )
